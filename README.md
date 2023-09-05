@@ -1,3 +1,21 @@
+
+##  URL of the GitHub repository
+
+## About
+build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.  
+
+## packages install(npm install)
+express(Node.js framework),  
+Babel,  
+idb(IndexedDB),  
+style-loader,  
+css-loader,  
+nodemon,  
+concurrntly,  
+webpack,
+
+
+
 ## User Story
   AS A developer
   I WANT to create notes or code snippets with or without an internet connection  
@@ -29,3 +47,5 @@
   THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets  
   WHEN I deploy to Heroku  
   THEN I should have proper build scripts for a webpack application  
+
+  ## example images
