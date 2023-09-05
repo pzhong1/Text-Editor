@@ -53,4 +53,7 @@ webpack,
   <img width="1440" alt="Screenshot 2023-09-05 at 12 55 44 PM" src="https://github.com/pzhong1/Text-Editor/assets/123424361/f79180a9-a376-4bba-9fc5-978a71f5d71e">
 
   install JATE icon
+  <img width="1440" alt="Screenshot 2023-09-05 at 1 01 51 PM" src="https://github.com/pzhong1/Text-Editor/assets/123424361/56d4c773-e488-4ab9-adf4-129cd3ac427c">
+<img width="1440" alt="Screenshot 2023-09-05 at 1 02 38 PM" src="https://github.com/pzhong1/Text-Editor/assets/123424361/20832257-6ffd-4651-b0bd-2fe2449e16dd">
+
   
