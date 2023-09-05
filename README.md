@@ -70,6 +70,7 @@ webpack,
  Storage
  <img width="1440" alt="Screenshot 2023-09-05 at 1 10 48 PM" src="https://github.com/pzhong1/Text-Editor/assets/123424361/fcf2c89c-23d5-4945-a780-40fc4d9aaa6e">
 
+application's registered service worker
 
  
   
