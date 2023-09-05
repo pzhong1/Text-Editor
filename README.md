@@ -1,4 +1,6 @@
-                                            J.A.T.E Text-Editor
+
+                                             J.A.T.E Text-Editor
+                                             
 ##  URL of the GitHub repository
 https://github.com/pzhong1/Text-Editor.git
 
