@@ -57,4 +57,6 @@ webpack,
   
 <img width="1440" alt="Screenshot 2023-09-05 at 1 02 38 PM" src="https://github.com/pzhong1/Text-Editor/assets/123424361/20832257-6ffd-4651-b0bd-2fe2449e16dd">
 
+ applications
+ 
   
