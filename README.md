@@ -1,4 +1,4 @@
-                                                             ## J.A.T.E Text-Editor
+                                                        ## J.A.T.E Text-Editor
 ##  URL of the GitHub repository
 
 ## About
@@ -64,6 +64,7 @@ webpack,
  IndexDB Storage
  <img width="1440" alt="Screenshot 2023-09-05 at 1 18 34 PM" src="https://github.com/pzhong1/Text-Editor/assets/123424361/d854e41e-adfe-4a7c-80c8-be3719c9904b">
 
+ Storage
  
 
  
