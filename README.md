@@ -51,3 +51,6 @@ webpack,
   ## example images
   npm run start
   <img width="1440" alt="Screenshot 2023-09-05 at 12 55 44 PM" src="https://github.com/pzhong1/Text-Editor/assets/123424361/f79180a9-a376-4bba-9fc5-978a71f5d71e">
+
+  install JATE icon
+  
